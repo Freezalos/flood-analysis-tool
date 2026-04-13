@@ -1,5 +1,18 @@
 # Flood Analysis Automation Tool (QGIS + GRASS)
 
+## Quick Start
+
+1. Download Script  
+2. Download Data Folder  
+3. Run script in QGIS Python Console  
+
+## Download
+
+- [Download Script](https://github.com/Freezalos/flood-analysis-tool/raw/main/Flood_tool_Final.py)
+- [Download Data Folder](https://drive.google.com/drive/folders/1yRGMX59qExlT-Us3kdCB_rqFYyIjaTBr?usp=drive_link)
+
+> ⚠️ Both are required for the tool to function properly.
+
 ## Overview
 
 This tool uses QGIS and GRASS to delineate a watershed, extract streams, and produce a flood risk map.
