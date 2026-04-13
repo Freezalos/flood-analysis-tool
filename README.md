@@ -8,7 +8,7 @@
 
 ## Download
 
-- [Download Script](https://github.com/Freezalos/flood-analysis-tool/raw/main/Flood_tool_Final.py)
+- [Download Script](https://raw.githubusercontent.com/Freezalos/flood-analysis-tool/main/Flood_tool_Final.py)
 - [Download Data Folder](https://drive.google.com/drive/folders/1yRGMX59qExlT-Us3kdCB_rqFYyIjaTBr?usp=drive_link)
 
 > ⚠️ Both are required for the tool to function properly.
