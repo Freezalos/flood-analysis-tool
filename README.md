@@ -1,17 +1,8 @@
-# Flood Analysis Automation Tool (QGIS + GRASS)
+# Flood Analysis Automation Tool (QGIS + GRASS) 
 
-## Quick Start
+## Download Link
 
-1. Download Script  
-2. Download Data Folder  
-3. Run script in QGIS Python Console  
-
-## Download
-
-- [Download Script](https://raw.githubusercontent.com/Freezalos/flood-analysis-tool/main/Flood_tool_Final.py)
-- [Download Data Folder](https://drive.google.com/drive/folders/1HVXjjH2NwXgKQVoaSpFFwJbR2ix9X1bJ?usp=drive_link)
-
-> ⚠️ Both are required for the tool to function properly.
+- [Download](https://drive.google.com/drive/folders/1HVXjjH2NwXgKQVoaSpFFwJbR2ix9X1bJ?usp=drive_link)
 
 ## Overview
 
