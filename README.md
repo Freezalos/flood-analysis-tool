@@ -91,7 +91,7 @@ Download options:
 
 If downloading manually, ensure all files are stored in a single folder.
 
-![CHIRPS Coverage](images/chirps_coverage.png)
+![CHIRPS Coverage](chirps_coverage.png)
 
 ---
 
