@@ -186,6 +186,13 @@ Detailed instructions are provided within the script.
   Uses hillslope contribution to distinguish between riverine and hillslope-driven flooding  
 
 ---
+## Samples 
+
+-Sample DEMs with supporting information are provided if you would like to use them 
+
+-Additionally, some of my finished projects are available for viewing 
+
+-Access them through downloading the samples folder using the same download link given above
 
 ## References
 
