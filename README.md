@@ -188,11 +188,11 @@ Detailed instructions are provided within the script.
 ---
 ## Samples 
 
--Sample DEMs with supporting information are provided if you would like to use them 
+Sample DEMs with supporting information are provided if you would like to use them as a gatway to the tool. 
+They are provided in the samples folder.
+Additionally, some of my finished projects are available for viewing. 
 
--Additionally, some of my finished projects are available for viewing 
-
--Access them through downloading the samples folder using the same download link given above
+---
 
 ## References
 
